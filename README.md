@@ -1,5 +1,7 @@
 **Administración y diseño de bases de datos**
+
 *Práctica 1 - Conceptos fundamentales de PostgreSQL*
+
 Alba Hidalgo Martín - alu0101619217
 
 ## 1. Creación de la base de datos
